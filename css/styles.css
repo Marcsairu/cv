@@ -1,0 +1,152 @@
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #40514E;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #40514E;
+}
+
+.bottomDiv {
+    background-color: #d7fffd;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:25%
+}
+
+.btnContactMe {
+    margin-top: 24px;
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btnContactMe:hover {
+    background: #55a1a1;
+    text-decoration: none;
+  }
+
+.developer {
+    font-weight: normal;
+    line-height: 2.5rem;
+    font-size: 2.5rem;
+}
+
+.contact-desc{
+    width: 20%;
+    margin: 0px auto 50px;
+
+}
+
+.copyright {
+    color: #40514E;
+    margin: 20px auto 0px;
+    font-size: .9em;
+    width: 15%;
+    margin-left: 45%;
+    line-height: 1;
+}
+
+div {
+    position: relative;
+}
+
+h1 {
+    margin: 50px auto 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.headerType{
+    font-size: 2.5em;
+    color: #66BFBF
+}
+
+hr {
+    border-top: 8px dotted;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.intro{
+    width: 20%;
+    margin: 0px auto;
+}
+
+.midDiv {
+    margin: 50px auto;
+}
+
+p{
+    line-height: 2;
+    font-size: 1.5em;
+}
+
+.profile {
+    margin: 75px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-image1 {
+    float: left;
+    margin: 0px 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.skill-image2 {
+    float: right;
+    margin: 0px 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 25%;
+    top: 50px
+}
+
+.topDiv {
+    background-color: #d7fffd;
+    padding: 100px 0px 0px;
+    position: relative;
+}
